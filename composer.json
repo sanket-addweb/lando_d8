@@ -16,11 +16,11 @@
     ],
     "require": {
         "composer/installers": "^1.2",
-        "drupal/core-composer-scaffold": "^8.8",
-        "drupal/core-project-message": "^8.8",
-        "drupal/core-recommended": "^8.8",
+        "drupal/core-composer-scaffold": "9.3.6",
+        "drupal/core-project-message": "9.3.6",
+        "drupal/core-recommended": "9.3.6",
         "drupal/upgrade_status": "^3.18",
-        "drush/drush": "8.4"
+        "drush/drush": "10.*"
     },
     "conflict": {
         "drupal/drupal": "*"

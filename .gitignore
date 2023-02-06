@@ -27,6 +27,7 @@ web/sites/*/settings.php
 web/sites/*/services*.yml
 web/sites/*/services.pantheon.*.yml
 .lando.yml
+drupal8.sql
 
 # Ignore SimpleTest multi-site environment.
 web/sites/simpletest
